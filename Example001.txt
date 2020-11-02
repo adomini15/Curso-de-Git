@@ -1,1 +1,1 @@
-Este es mi primera interración con git y me gusta lo que veo.
+Ya aprendi a moverme en otro branch nuevo.
