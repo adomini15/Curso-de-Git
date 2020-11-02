@@ -1,1 +1,1 @@
-Un segundo archivo pero creado desde el branch dev.
+Un segundo archivo, creado desde el branch dev, pero ahora modificado en el branch master.
